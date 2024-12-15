@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1>Hello, I'm Bouh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="http://linkedin.com/in/bouh-bouh-713553219">Aspiring Cybersecurity Professional</a>
 
-<!--
-**BouhBouh0/BouhBouh0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-Here are some ideas to get you started:
+  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2>👨‍💻 Programming Projects:</h2>
+
+<h2>📄 Certifications</h2>
+
+- [CompTIA Pentest+](https://www.certmetrics.com/comptia/candidate/cert_summary.aspx)
+- [CompTIA CySA+](https://www.certmetrics.com/comptia/candidate/cert_summary.aspx)
+- [CompTIA Project+](https://www.certmetrics.com/comptia/candidate/cert_summary.aspx)
+- [CompTIA Security+](https://www.certmetrics.com/comptia/candidate/cert_summary.aspx)
+- [CompTIA Network+](https://www.certmetrics.com/comptia/candidate/cert_summary.aspx)
+- [CompTIA A+](https://www.certmetrics.com/comptia/candidate/cert_summary.aspx)
+- [Google Cybersecurity Professional]()
+- [Google IT Support Professional]()
+
