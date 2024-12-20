@@ -1,11 +1,12 @@
-<h1>Hello, I'm Bouh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/bbouh/">Aspiring Cybersecurity Professional</a>
+<h1>Hello, I'm Bouh! <br/><a href="https://www.linkedin.com/in/bbouh/">Programmer</a>, <a href="https://www.linkedin.com/in/bbouh/">Aspiring Cybersecurity Professional</a>
 
 <h2>🔏 Cybersecurity Projects:</h2>
 
+  - [Random Password Genereator](https://github.com/BouhBouh0/ActiveDirectoryLab/blob/main/README.md) 
  <!-- - [Active Directory Home Lab](https://github.com/BouhBouh0/ActiveDirectoryLab/blob/main/README.md) -->
 
 
-<h2>👨‍💻 Programming Projects:</h2>
+<!--<h2>👨‍💻 Programming Projects:</h2> -->
 
 <h2>📄 Certifications</h2>
 
