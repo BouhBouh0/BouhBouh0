@@ -1,4 +1,4 @@
-<h1>Hello, I'm Bouh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="http://linkedin.com/in/bouh-bouh-713553219">Aspiring Cybersecurity Professional</a>
+<h1>Hello, I'm Bouh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/bbouh/">Aspiring Cybersecurity Professional</a>
 
 <h2>🔏 Cybersecurity Projects:</h2>
 
