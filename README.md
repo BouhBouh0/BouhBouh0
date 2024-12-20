@@ -2,7 +2,7 @@
 
 <h2>🔏 Cybersecurity Projects:</h2>
 
-  - [Random Password Genereator](https://github.com/BouhBouh0/ActiveDirectoryLab/blob/main/README.md) 
+  - [Random Password Genereator](https://github.com/BouhBouh0/RandomPasswordGenerator/blob/main/README.md) 
  <!-- - [Active Directory Home Lab](https://github.com/BouhBouh0/ActiveDirectoryLab/blob/main/README.md) -->
 
 
